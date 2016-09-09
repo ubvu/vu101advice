@@ -22,6 +22,16 @@
 
 ### Products & services
 
+* perform network analysis
+* perform impact analysis (traditional metrics, altmetrics)
+* provide metrics in Pure
+* consultancy for policy makers on metrics
+
 ### Pain relievers
 
+* limitations of quantitative metrics clear
+
 ### Gain creators
+
+* easy overview
+* clear metrics 

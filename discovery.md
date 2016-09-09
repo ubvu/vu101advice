@@ -27,6 +27,20 @@
 
 ### Products & services
 
+* perform literature / data / project / researcher search
+* perform network analysis
+* provide a tool (browser button / add-on) that gives direct access to (licensed) publications
+* provide a tool (browser button / add-on) that gives direct information on author of specific paper
+* provide a system to maintain a search profile, performing automated searches
+* provide a tool (browser button / add-on) that gives a 'must-read-measure' (based on searcher's profile, metrics of author(s), article)
+* provide training on using alerts
+
 ### Pain relievers
 
+* quick access
+* no blind spots
+
 ### Gain creators
+
+* expertise in searching
+* automated

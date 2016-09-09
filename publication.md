@@ -28,6 +28,19 @@
 
 ### Products & services
 
+* advice on publication channel
+* archiving services
+* publish journal / books
+* training in peer review
+* services for publication process management
+
 ### Pain relievers
 
+* frictionless archiving
+* archive with great visibility
+* simpler publication process
+
 ### Gain creators
+
+* be a better reviewer yourself
+* expert knowledge on publication channels

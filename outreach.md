@@ -24,6 +24,22 @@
 
 ### Products & services
 
+* link from Pure to (academic) profile (ResearchGate, academia.edu, LinkedIn)
+* advice on communication in every stage of research
+* call attention to publications on social media (new, popular)
+* training in collaboration with research information officers
+* science café for general public
+* expert-finder for journalists
+* production of popular science multimedia
+
 ### Pain relievers
 
+* collaboration with information officers
+* reusable
+
 ### Gain creators
+
+* visually attractive
+* automated
+* knowledge of communication for every stage of research
+* present in (social) media 
