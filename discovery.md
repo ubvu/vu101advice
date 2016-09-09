@@ -7,6 +7,10 @@
 * find literature / data / projects / researchers as basis for new research
 * find most relevant / best / all
 * find potential new directions for research
+* get access
+* manage references
+* read
+* annotate
 
 ### Pains
 

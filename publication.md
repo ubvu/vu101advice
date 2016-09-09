@@ -8,6 +8,7 @@
 * submit
 * get publication accepted
 * keep publication available
+* do peer review
 
 ### Pains
 

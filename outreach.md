@@ -7,6 +7,7 @@
 * increase renown among peers
 * increase renown among general public
 * choose right channel
+* valorize
 
 ### Pains
 
@@ -42,4 +43,4 @@
 * visually attractive
 * automated
 * knowledge of communication for every stage of research
-* present in (social) media 
+* present in (social) media

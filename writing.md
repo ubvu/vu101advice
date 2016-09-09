@@ -6,6 +6,7 @@
 
 * capture research results
 * capture references
+* visualize
 
 ### Pains
 
@@ -36,4 +37,4 @@
 ### Gain creators
 
 * separate content and design
-* clear rules for collaboration 
+* clear rules for collaboration
