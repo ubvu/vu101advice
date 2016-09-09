@@ -23,3 +23,11 @@
 * good (i.e. helpful) review
 * next step in career
 * fast publication process
+
+## Value map
+
+### Products & services
+
+### Pain relievers
+
+### Gain creators

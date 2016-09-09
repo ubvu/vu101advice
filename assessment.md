@@ -17,3 +17,11 @@
 * insight into value as researcher
 * find valuable partners for collaboration
 * clear view of starting point for career negotiations
+
+## Value map
+
+### Products & services
+
+### Pain relievers
+
+### Gain creators

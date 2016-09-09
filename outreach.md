@@ -19,3 +19,11 @@
 * prestige,
 * network of peers
 * broad impact
+
+## Value map
+
+### Products & services
+
+### Pain relievers
+
+### Gain creators

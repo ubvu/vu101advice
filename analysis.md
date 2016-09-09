@@ -6,7 +6,7 @@
 
 * find answers to research question(s)
 * find structure in data
-* find new combinations of ideas, concepts 
+* find new combinations of ideas, concepts
 
 ### Pains
 
@@ -20,3 +20,11 @@
 * unexpected result
 * seen as: innovative, resourceful
 * raw material for publication
+
+## Value map
+
+### Products & services
+
+### Pain relievers
+
+### Gain creators

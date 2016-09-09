@@ -22,3 +22,11 @@
 * complete overview: seen as careful, expert on subject
 * inspiration
 * results immediately available
+
+## Value map
+
+### Products & services
+
+### Pain relievers
+
+### Gain creators

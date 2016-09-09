@@ -17,3 +17,11 @@
 ### Gains
 
 * communicable result
+
+## Value map
+
+### Products & services
+
+### Pain relievers
+
+### Gain creators
