@@ -52,7 +52,7 @@
 * provide training on using alerts
     * We provide a training, both online and face-to-face, on using alerts. After completing the training, researchers know why it can be helpful to receive automated alerts and they are able to create alerts in the search engine or bibliographic database they use. We have a helpdesk that researchers can contact (online or face-to-face) when they need help in creating or maintaining alerts.
 * training in using reference managers
-    * We provide a training, both online and face-to-face, on using reference managers. After completing the training, researchers know what the benefits are of using reference management software. They are able to make an informed decision on which tool(s) to use. They are able to add references from the search engines or bibliographic databases they use, organize these and annotate them. 
+    * We provide a training, both online and face-to-face, on using reference managers. After completing the training, researchers know what the benefits are of using reference management software. They are able to make an informed decision on which tool(s) to use. They are able to add references from the search engines or bibliographic databases they use, organize these and annotate them. We have a helpdesk that researchers can contact (online or face-to-face) when they need help in using reference management software.
 
 ### Pain relievers
 
