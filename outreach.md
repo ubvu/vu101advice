@@ -25,7 +25,7 @@
 
 ### Products & services
 
-We have a service that helps to spread the word of your post-publication research that you have registered in PURE.
+We have a service that helps to spread the word on every step of your research that you have registered in PURE, wether it is a new research project, a milestone, a new release of software, your data you put in a repository, and your articles your have submitted or is published, but also the events you have visited and tv or radio performances you have given\.
 We do this by taking you though the process of making a lay-man story on each publication as text and video, publishing on science blogs, setting-up social and academic profiles, notify your social and academic networks on your latest work with those lay-man stories.
 
 * link from Pure to (academic) profile (ORCiD, ResearchGate, academia.edu, LinkedIn)
