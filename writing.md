@@ -25,6 +25,8 @@
 
 ### Products & services
 
+We help researchers in focusing on the content of their writing. We do this by providing training in tools that take care of other aspects of writing (version control, formatting, reference management). We also provide a place where they can get away from other busy-work.
+
 * distraction-free writing environment
     * We provide researchers with a distraction-free room, that is especially designated for writing. There is no internet available and there are no other distractions allowed, such as conversations with others or phone calls. We provide a schedule, for example pomodoro-style (25 minutes of focused work, 5 minute break)
 * provide template documents for specific journal / publisher
