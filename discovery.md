@@ -35,6 +35,10 @@
 
 ### Products & services
 
+We provide services that gives researchers the literature or data they need. We can also find interesting other projects or researchers for them.
+We provide tools that enable researchers themselves to use literature or data more efficiently and effectively. We do this by providing tools that help them to filter the most important literature, to stay up to date and to get access quickly.
+We provide training in using alerts and reference management software.
+
 * perform literature / data / project / researcher search
     * We consult with the researcher to make sure we have a thorough understanding of the research question(s). We then perform the search in all relevant databases and provide the researchers with a complete list of relevant material in a reference management file.
 * perform network analysis of researchers
