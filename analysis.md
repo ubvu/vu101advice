@@ -21,6 +21,10 @@
 * seen as: innovative, resourceful
 * raw material for publication
 
+### Opportunities seen in 101 questionnaire results
+
+* Training in tools used widely for analysis, such as Excel, SPSS, iPython, R and Matlab.
+
 ## Value map
 
 ### Products & services
