@@ -25,6 +25,8 @@
 
 ### Products & services
 
+We provide researchers with ready-to-analyze data and the hardware needed for the analysis. We make sure that methods, techniques or code used in analysis are available for reuse by others. We provide training in research data and digital scholarship.
+
 * provide bespoke data
     * We consult with the researcher to make sure we have a thorough understanding of the research question(s). We then provide the necessary data from online resources. Data are cleaned and consistent.
 * access to hardware
