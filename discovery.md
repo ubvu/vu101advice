@@ -31,6 +31,13 @@
 * results immediately available
 * be able to keep and search all annotations
 
+### Opportunities seen in 101 questionnaire results
+
+* Alert services (e.g. journal TOC's) to discover new literature are less known.
+* Researchers use tools with an different primary use (such as ResearchGate or Mendeley) to search for literature.
+* More than 30 percent of respondents do not indicate using a reference manager at all.
+* The ultimate hope is that there is no need to read through all the papers but to get alerted to only the latest and necessary information for your current research domain, from the complete scientific corpus
+
 ## Value map
 
 ### Products & services
