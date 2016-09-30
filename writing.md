@@ -21,6 +21,15 @@
 * communicable result
 * be able to tell a story
 
+### Opportunities seen in 101 questionnaire results
+
+* More than 30 per cent of respondents do not indicate using a reference manager at all.
+* VU respondents are relatively traditional, with high usage of MS Word and low usage of Google Docs and LaTeX.
+* The importance of Mendeley in the research workflow of non-tenured researchers is again apparent in the Writing Phase.
+* Where Mendeley is used less by Arts&Humanities, this group does use the open source reference manager Zotero much more than the other disciplines.
+* More responsive communication, without losing credit for their contributions
+* Support for datavisualization.
+
 ## Value map
 
 ### Products & services
